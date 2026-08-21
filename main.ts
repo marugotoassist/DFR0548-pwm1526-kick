@@ -1,6 +1,6 @@
 motor.setPwmFrequency(1526)
-motor.setKickStart(200, 100)
-motor.setMinSpeed(30)
+motor.setKickStart(200, 200)
+motor.setMinSpeed(150)
 basic.forever(function () {
 
 })
