@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "motor": "github:marugotoassist/pxt-motor#cbea6dfd15b5b92537d5fbdbbdf9d606085c0fe0"
+        "motor": "github:marugotoassist/pxt-motor#v0.3.1"
     },
     "files": [
         "main.blocks",
